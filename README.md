@@ -58,5 +58,4 @@ http://localhost:3000
 ```
 
 ## GitHub Source
-
-ใส่ลิงก์ GitHub Source ของโปรเจคไว้ในหน้า About และสามารถแก้ไขได้ตามต้องการ
+https://github.com/fake141213/Pokemon-app.git
