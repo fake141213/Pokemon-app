@@ -54,13 +54,13 @@ export default function AboutPage() {
             </Box>
             <Button
               component="a"
-              href="https://github.com/"
+              href="https://github.com/fake141213/Pokemon-app.git"
               target="_blank"
               rel="noreferrer"
               variant="contained"
               sx={{ backgroundColor: 'var(--secondary)', color: '#ffffff', '&:hover': { backgroundColor: '#225fa3' } }}
             >
-              ดูซอร์สโค้ด
+              View Source Code
             </Button>
           </Box>
         </Box>
