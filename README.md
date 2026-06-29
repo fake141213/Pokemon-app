@@ -56,6 +56,16 @@ npm run dev
 ```
 http://localhost:3000
 ```
+## Screenshots
+
+### Home Page
+![Home](screenshots/home.png)
+
+### Pokemon Detail
+![Detail](screenshots/detail.png)
+
+### About Page
+![About](screenshots/about.png)
 
 ## GitHub Source
 https://github.com/fake141213/Pokemon-app.git
