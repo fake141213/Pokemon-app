@@ -59,7 +59,8 @@ http://localhost:3000
 ## Screenshots
 
 ### Home Page
-![Uploading image.png…]()
+![Uploading Screenshot 2026-06-29 223743.png…]()
+
 
 
 ### Pokemon Detail
