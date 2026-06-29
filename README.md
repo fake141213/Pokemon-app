@@ -54,7 +54,7 @@ npm run dev
 เปิดเว็บที่:
 
 ```
-http://localhost:3000
+http://localhost:3001
 ```
 
 ## GitHub Source
