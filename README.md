@@ -59,7 +59,8 @@ http://localhost:3000
 ## Screenshots
 
 ### Home Page
-![Home](screenshots/home.png)
+![Uploading image.png…]()
+
 
 ### Pokemon Detail
 ![Detail](screenshots/detail.png)
